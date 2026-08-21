@@ -11,10 +11,10 @@ public class Main
 
         System.out.println();
 
-        System.out.println("==== Bakery Lock ====");
-        runPractical(new BakeryLock(numThreads));
+       // System.out.println("==== Bakery Lock ====");
+        //runPractical(new BakeryLock(numThreads));
 
-        System.out.println();
+        //System.out.println();
     }
 
     private static void runPractical(Lock lock) throws InterruptedException 
