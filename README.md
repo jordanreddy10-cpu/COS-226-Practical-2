@@ -1,4 +1,5 @@
 # COS-226-Practical-2
+u25029666, u25407725, u25110782
 ## How to use
 ### Compiling the code
 To compile the code go to the folder where all of the '.java' files are located, then open your terminal and run the command: 'javac *.java'
